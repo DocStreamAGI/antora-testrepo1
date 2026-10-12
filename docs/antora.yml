@@ -1,0 +1,5 @@
+name: testrepo1
+title: Test Repository 1
+version: main
+nav:
+  - modules/ROOT/nav.adoc
